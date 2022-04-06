@@ -1,0 +1,17 @@
+// arquivo fonte
+math{
+      int x;
+ int    val;
+ //     barra
+ x + val;
+ 2+(3 - 5);
+ //barra
+    { 
+ float x; /* outro 
+ x */
+ 2 - 3.5 + x; /* aaaaaa
+    */ 10; /* comentario*/
+ // aaaa
+ }
+ x;
+}
